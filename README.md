@@ -15,6 +15,8 @@ This platform was built for law enforcement agencies to provide information and 
 
 
 My Contribution:
+-Market Research 
+-User Research
 -Product Design
 -Defining MVP
 -Lead Remote Dev Team
