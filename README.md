@@ -14,6 +14,7 @@ THE SOLUTION:
 This platform was built for law enforcement agencies to provide information and resources to their community using their language, an intutive interface, and integrating with their operational platforms. 
 
 My Contribution:
+
 -Market Research 
 -User Research
 -Product Design
