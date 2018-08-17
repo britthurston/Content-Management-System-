@@ -15,11 +15,11 @@ This platform was built for law enforcement agencies to provide information and 
 
 My Contribution:
 
--Market Research 
--User Research
--Product Design
--Defining MVP
--Lead Remote Dev Team
--API Management and Roadmap
--Product Roadmap
+- Market Research 
+- User Research
+- Product Design
+- Defining MVP
+- Lead Remote Dev Team
+- API Management and Roadmap
+- Product Roadmap
 
