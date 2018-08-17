@@ -12,3 +12,12 @@ Other CMS platforms cannot perform necessary features like submitting an anonymo
 THE SOLUTION:  
 
 This platform was built for law enforcement agencies to provide information and resources to their community using their language, an intutive interface, and integrating with their operational platforms. 
+
+
+My Contribution:
+-Product Design
+-Defining MVP
+-Lead Remote Dev Team
+-API Management and Roadmap
+-Product Roadmap
+
